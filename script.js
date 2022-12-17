@@ -1,5 +1,5 @@
-// Get global access to all inputs / divs here (you'll need them later 😘)
-// bill input, tip input, number of people div, and per person total div
+
+// Make bill input, tip input, number of people div, and per person total div
 
 const billInput = document.getElementById('billTotalInput')
 const tipInput = document.getElementById('tipInput')
