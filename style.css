@@ -4,14 +4,14 @@
 }
 
 body {
-  background: #062103;
+  background: #3b1287;
 }
 
 .wrapper {
   height: 525px;
   width: 360px;
   color: white;
-  background: #04390f;
+  background: #440b6a;
   border-radius: 1rem;
   padding: 1.2rem;
   margin: 100px auto;
@@ -19,6 +19,15 @@ body {
 
 #topContainer {
   margin-top: 4rem;
+}
+h1 {
+  
+  color: #e0dde3;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Old English Five', sans-serif;
+  
+  
 }
 
 .container {
@@ -31,7 +40,7 @@ body {
 }
 
 .inputContainer {
-  background: #365950;
+  background: #3b1287;
   border-radius: 1.4rem;
   padding: 0 0.8rem;
   display: flex;
@@ -48,7 +57,7 @@ body {
 }
 
 .buttonContainer {
-  background: #0e623e;
+  background: #3b1287;
   display: grid;
   place-items: center;
   width: 1.6rem;
